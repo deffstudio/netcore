@@ -12,3 +12,4 @@ D:\__dude\repo\net\chapter01-vscode\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
 D:\__dude\repo\net\chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.pdb
 D:\__dude\repo\net\chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
 D:\__dude\repo\net\chapter01-vscode\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
+D:\__dude\repo\net\chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.sourcelink.json
