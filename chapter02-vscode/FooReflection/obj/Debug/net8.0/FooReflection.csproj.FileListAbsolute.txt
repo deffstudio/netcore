@@ -1,0 +1,15 @@
+D:\__dude\repo\net\chapter02-vscode\FooReflection\bin\Debug\net8.0\FooReflection.exe
+D:\__dude\repo\net\chapter02-vscode\FooReflection\bin\Debug\net8.0\FooReflection.deps.json
+D:\__dude\repo\net\chapter02-vscode\FooReflection\bin\Debug\net8.0\FooReflection.runtimeconfig.json
+D:\__dude\repo\net\chapter02-vscode\FooReflection\bin\Debug\net8.0\FooReflection.dll
+D:\__dude\repo\net\chapter02-vscode\FooReflection\bin\Debug\net8.0\FooReflection.pdb
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.AssemblyInfoInputs.cache
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.AssemblyInfo.cs
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.sourcelink.json
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.dll
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\refint\FooReflection.dll
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.pdb
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\FooReflection.genruntimeconfig.cache
+D:\__dude\repo\net\chapter02-vscode\FooReflection\obj\Debug\net8.0\ref\FooReflection.dll

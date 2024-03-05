@@ -1,0 +1,15 @@
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfoInputs.cache
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfo.cs
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.sourcelink.json
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\bin\Debug\net8.0\Vocabulary.exe
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\bin\Debug\net8.0\Vocabulary.deps.json
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\bin\Debug\net8.0\Vocabulary.runtimeconfig.json
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\bin\Debug\net8.0\Vocabulary.dll
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\bin\Debug\net8.0\Vocabulary.pdb
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.dll
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\refint\Vocabulary.dll
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.pdb
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\Vocabulary.genruntimeconfig.cache
+D:\__dude\repo\net\chapter01-vscode\Vocabulary\obj\Debug\net8.0\ref\Vocabulary.dll

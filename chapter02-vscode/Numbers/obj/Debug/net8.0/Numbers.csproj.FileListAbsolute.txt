@@ -1,0 +1,15 @@
+D:\__dude\repo\net\chapter02-vscode\Numbers\bin\Debug\net8.0\Numbers.exe
+D:\__dude\repo\net\chapter02-vscode\Numbers\bin\Debug\net8.0\Numbers.deps.json
+D:\__dude\repo\net\chapter02-vscode\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+D:\__dude\repo\net\chapter02-vscode\Numbers\bin\Debug\net8.0\Numbers.dll
+D:\__dude\repo\net\chapter02-vscode\Numbers\bin\Debug\net8.0\Numbers.pdb
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.dll
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.pdb
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+D:\__dude\repo\net\chapter02-vscode\Numbers\obj\Debug\net8.0\ref\Numbers.dll
