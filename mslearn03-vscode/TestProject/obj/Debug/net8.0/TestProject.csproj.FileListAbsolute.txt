@@ -1,0 +1,15 @@
+D:\__dude\repo\net\mslearn03-vscode\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\__dude\repo\net\mslearn03-vscode\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\__dude\repo\net\mslearn03-vscode\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\__dude\repo\net\mslearn03-vscode\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\__dude\repo\net\mslearn03-vscode\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\__dude\repo\net\mslearn03-vscode\TestProject\obj\Debug\net8.0\ref\TestProject.dll

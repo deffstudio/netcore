@@ -1,0 +1,15 @@
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\bin\Debug\net8.0\RenewalRate.exe
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\bin\Debug\net8.0\RenewalRate.deps.json
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\bin\Debug\net8.0\RenewalRate.runtimeconfig.json
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\bin\Debug\net8.0\RenewalRate.dll
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\bin\Debug\net8.0\RenewalRate.pdb
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfoInputs.cache
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfo.cs
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.sourcelink.json
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.dll
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\refint\RenewalRate.dll
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.pdb
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\RenewalRate.genruntimeconfig.cache
+D:\__dude\repo\net\mslearn03-vscode\RenewalRate\obj\Debug\net8.0\ref\RenewalRate.dll
