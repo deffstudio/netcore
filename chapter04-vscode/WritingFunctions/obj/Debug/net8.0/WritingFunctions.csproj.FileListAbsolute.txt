@@ -1,0 +1,15 @@
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\bin\Debug\net8.0\WritingFunctions.exe
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\bin\Debug\net8.0\WritingFunctions.deps.json
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\bin\Debug\net8.0\WritingFunctions.runtimeconfig.json
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\bin\Debug\net8.0\WritingFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\bin\Debug\net8.0\WritingFunctions.pdb
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfoInputs.cache
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfo.cs
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.sourcelink.json
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\refint\WritingFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.pdb
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\WritingFunctions.genruntimeconfig.cache
+D:\__dude\repo\net\chapter04-vscode\WritingFunctions\obj\Debug\net8.0\ref\WritingFunctions.dll

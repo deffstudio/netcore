@@ -1,0 +1,15 @@
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.exe
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.deps.json
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.runtimeconfig.json
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.pdb
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.AssemblyInfoInputs.cache
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.AssemblyInfo.cs
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.sourcelink.json
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\refint\TopLevelFunctions.dll
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.pdb
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.genruntimeconfig.cache
+D:\__dude\repo\net\chapter04-vscode\TopLevelFunctions\obj\Debug\net8.0\ref\TopLevelFunctions.dll
