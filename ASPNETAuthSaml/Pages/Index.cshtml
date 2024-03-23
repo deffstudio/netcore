@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    var nameClaim = User.Claims.FirstOrDefault(cx => cx.Type=="http://schemas.microsoft.com/identity/claims/displayname");
+    var name = nameClaim == null ? null : nameClaim.Value;
+    <p>Hello, @name</p>
+}
+else 
+{
+    <a asp-controller="Auth" asp-action="Login">Login</a>
+}
