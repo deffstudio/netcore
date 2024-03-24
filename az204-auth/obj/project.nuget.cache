@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaS29OFuDgvTRzacZPMShEv6QmOUCOqmDUzonpxu+phnZ34fyChDFg7Gu7EPnAhjRemHAJoZ6Dm7q9ix92AkmA==",
+  "success": true,
+  "projectFilePath": "D:\\__dude\\repo\\net\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbus\\.nuget\\packages\\microsoft.identity.client\\4.59.0\\microsoft.identity.client.4.59.0.nupkg.sha512",
+    "C:\\Users\\cbus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\cbus\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\cbus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
